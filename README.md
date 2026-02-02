@@ -5,7 +5,7 @@
 
 ## 🍎 Apple Retail Sales SQL Project
 
----
+
 
 
 ## 📌 Project Overview
