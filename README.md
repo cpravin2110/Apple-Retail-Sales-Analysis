@@ -30,7 +30,7 @@ Analysis Areas: Sales, Stores, Products, Warranty Claims
 
 🗂️ Database Schema
 
-![Dashboard Preview](7add8015cbaaf93d1dd13407a6e2e4f28e57c34a/Schema.png)
+![Dashboard Preview](Schema.png)
 
 The project is built on five core tables:
 
