@@ -15,7 +15,7 @@ This project analyzes Apple Retail Store Sales and Warranty Data using SQL to un
 
 The analysis focuses on store performance, product categories, customer demand, warranty risks, and life-cycle behavior using structured queries on a relational database.
 
-### Dataset Scope:
+**Dataset Scope:**
 The analysis is performed on a dataset containing over 1 million rows of data, organized across 5 relational tables with 25+ columns covering stores, products, categories, sales transactions, and warranty claims.
 
 ---
