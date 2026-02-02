@@ -136,7 +136,7 @@ Analysis Areas: Sales, Stores, Products, Warranty Claims
 
 The USA dominates retail presence and sales volume, reinforcing its role as the primary revenue market.
 
-Warranty claims are widespread, with no store operating claim-free.
+⁘ Warranty claims are widespread, with no store operating claim-free.
 
 A low warranty completion rate (24.89%) highlights operational or process gaps.
 
@@ -150,7 +150,7 @@ Long product life cycles (e.g., AirPods 2nd Gen) prove sustained customer demand
 ## 📈 Project Objectives
 
 
-Evaluate store-level and country-level sales performance
+» Evaluate store-level and country-level sales performance
 
 Identify top-selling stores and products
 
