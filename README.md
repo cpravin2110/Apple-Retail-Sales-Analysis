@@ -41,7 +41,7 @@ Analysis Areas: Sales, Stores, Products, Warranty Claims
 
 **The project is built on five core tables:**
 
-
+### 1️⃣ stores
 **1️⃣ stores**
 
 💠 Stores information for Apple retail locations.
