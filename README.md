@@ -3,7 +3,7 @@
 ---
 
 
-## 🍎 Apple Retail Sales SQL Project
+## 🍎 Apple Retail Sales Analysis
 
 
 
