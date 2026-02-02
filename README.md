@@ -41,73 +41,72 @@ Analysis Areas: Sales, Stores, Products, Warranty Claims
 
 **1️⃣ stores**
 
-Stores information for Apple retail locations.
+💠Stores information for Apple retail locations.
 
-store_id – Unique store identifier
+● store_id – Unique store identifier
 
-store_name – Store name
+● store_name – Store name
 
-city – City
+● city – City
 
-country – Country
+● country – Country
 
 **2️⃣ category**
 
 
-Product category details.
+💠Product category details.
 
-category_id – Unique category ID
+● category_id – Unique category ID
 
-category_name – Category name
+● category_name – Category name
 
 **3️⃣ products**
 
 
-Apple product details.
+💠Apple product details.
 
-product_id – Unique product ID
+● product_id – Unique product ID
 
-product_name – Product name
+● product_name – Product name
 
-category_id – References category
+● category_id – References category
 
-launch_date – Product launch date
+● launch_date – Product launch date
 
-price – Product price
+● price – Product price
 
 **4️⃣ sales**
 
 
-Sales transaction data.
+💠Sales transaction data.
 
-sale_id – Unique sale ID
+● sale_id – Unique sale ID
 
-sale_date – Date of sale
+● sale_date – Date of sale
 
-store_id – References stores
+● store_id – References stores
 
-product_id – References products
+● product_id – References products
 
-quantity – Units sold
+● quantity – Units sold
 
 **5️⃣ warranty**
 
-Warranty claim records.
+💠Warranty claim records.
 
-claim_id – Unique claim ID
+● claim_id – Unique claim ID
 
-claim_date – Date of claim
+● claim_date – Date of claim
 
-sale_id – References sales
+● sale_id – References sales
 
-repair_status – Claim status (complete, pending, rejected, etc.)
+● repair_status – Claim status (complete, pending, rejected, etc.)
 
 ---
 
 
 ## 📊 Key Business Insights & Results
 
----
 
 | Question                                       | Result                                                                     |
 | ---------------------------------------------- | -------------------------------------------------------------------------- |
