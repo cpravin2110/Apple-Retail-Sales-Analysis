@@ -3,12 +3,13 @@
 ---
 
 
-##🍎 Apple Retail Sales SQL Project
+## 🍎 Apple Retail Sales SQL Project
 
 ---
 
 
-##📌 Project Overview
+## 📌 Project Overview
+
 
 This project analyzes Apple Retail Store Sales and Warranty Data using SQL to uncover insights related to sales performance, product trends, warranty behavior, and store efficiency across multiple countries.
 
@@ -17,7 +18,7 @@ The analysis focuses on store performance, product categories, customer demand, 
 ---
 
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Database: PostgreSQL
 
@@ -28,14 +29,17 @@ Analysis Areas: Sales, Stores, Products, Warranty Claims
 ---
 
 
-##🗂️ Database Schema
+## 🗂️ Database Schema
+
+
+
 
 ![Dashboard Preview](Schema.png)
 
-The project is built on five core tables:
----
+**The project is built on five core tables:**
 
-1️⃣ stores
+
+**1️⃣ stores**
 
 Stores information for Apple retail locations.
 
@@ -47,7 +51,8 @@ city – City
 
 country – Country
 
-2️⃣ category
+**2️⃣ category**
+
 
 Product category details.
 
@@ -55,7 +60,8 @@ category_id – Unique category ID
 
 category_name – Category name
 
-3️⃣ products
+**3️⃣ products**
+
 
 Apple product details.
 
@@ -69,7 +75,8 @@ launch_date – Product launch date
 
 price – Product price
 
-4️⃣ sales
+**4️⃣ sales**
+
 
 Sales transaction data.
 
@@ -83,7 +90,7 @@ product_id – References products
 
 quantity – Units sold
 
-5️⃣ warranty
+**5️⃣ warranty**
 
 Warranty claim records.
 
@@ -122,7 +129,9 @@ repair_status – Claim status (complete, pending, rejected, etc.)
 
 ---
 
-##🔍 Analysis Highlights
+## 🔍 Analysis Highlights
+
+
 
 The USA dominates retail presence and sales volume, reinforcing its role as the primary revenue market.
 
@@ -137,7 +146,8 @@ Long product life cycles (e.g., AirPods 2nd Gen) prove sustained customer demand
 ---
 
 
-##📈 Project Objectives
+## 📈 Project Objectives
+
 
 Evaluate store-level and country-level sales performance
 
@@ -152,14 +162,15 @@ Support data-driven retail and warranty strategy decisions
 ---
 
 
-##🚀 Conclusion
+## 🚀 Conclusion
+
 
 This SQL project demonstrates how structured retail data can be transformed into actionable business insights. By combining sales trends, warranty analysis, and product life-cycle evaluation, the project highlights critical areas for performance optimization and risk management in Apple retail operations.
 
 ---
 
 
-##🤝 Connect
+## 🤝 Connect
 
 If you like this project or want to collaborate, feel free to connect!
 
