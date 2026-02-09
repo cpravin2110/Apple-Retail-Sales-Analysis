@@ -1,9 +1,11 @@
+# 🍎 Apple Retail Sales Analysis
+
   ![Dashboard Preview](Apple-Retail-Sales-SQL-Project%20(1).png)
 
 ---
 
 
-# 🍎 Apple Retail Sales Analysis
+
 
 
 
