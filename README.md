@@ -1,6 +1,6 @@
 # 🍎 Apple Retail Sales Analysis
 
-  ![Dashboard Preview](Apple-Retail-Sales-SQL-Project%20(1).png)
+  ![Dashboard Preview](https://github.com/cpravin2110/Apple-Retail-Sales-Analysis/blob/38ecbdd525307eb463b56c6c4921f8ec5a297ada/Apple%20sales%20template.png)
 
 ---
 
